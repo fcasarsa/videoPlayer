@@ -1,0 +1,2 @@
+C:\Users\fcasarsa\AndroidstudioProjects\videoPlayer2\app\build\intermediates\classes\debug
+C:\Users\fcasarsa\AndroidstudioProjects\videoPlayer2\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-31d387e10babc419d67b388ec7b732bc88ce2215.jar
